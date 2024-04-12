@@ -1,4 +1,7 @@
 <h1>Hi, I'm Hari! <br/><a href="https://github.com/harisourabhkhs412">Cybersecurity Professional</a>, <a href="href="(https://www.linkedin.com/in/sourabh412/)">Business Analyst </a></h1>
+- 🏞️ I’m currently working on being outdoorsy
+- 🌱 I’m currently learning towards ISC2 CISSP
+- ⚡ Fun fact: I learned to ski ⛷️ in 2 winter seasons .
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -13,13 +16,13 @@ digital agricultural advisory service. <b><i>(Associated with Kalgudi Digital Pv
   - It targeted a significant issue of market instability in the Indian agricultural sector. The planners can only make policy decisions by knowing how much yield will be produced in the future. We developed a crop predictive model that includes the research and the building of an agricultural yield forecasting system based on real-time monthly weather information. We developed the model with a linear regression algorithm using python in Jupyter Notebook IDE.
 
 
-<h2📜 Certifications</h2>
+<h2>📜 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Agile Industry Mindset(AIM)](https://drive.google.com/file/d/1CdX79RZiBd0Jgmb6_LPAJbVSPbIBIXx6/view?usp=drivesdk)
+- [CC – Certified in Cybersecurity]()
+- [Certified Information Systems Security Professional (CISSP)(Cybrary))](https://app.cybrary.it/courses/api/certificate/CC-47b2d0c7-1bcb-438f-ac2f-0e82aa0b8e4c/view)
+- [Fortinet Network Security Expert Level 2](https://drive.google.com/file/d/1-b_QxIoTGa57y9Uz-0sQkCPazA50wRYw/view?usp=sharing)
+- [Gender Based Analysis Plus](https://drive.google.com/file/d/1wIm9cgLGCfUvChutF0b7Y_S_f-iapO7n/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
