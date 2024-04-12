@@ -2,10 +2,13 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>An Analysis of the Security of the Global Positioning System (GPS) and Proposed Solutions)</b>
-  - [Researching the Security of the (GPS) , cybersecurity threats Proposed Solutions](https://era.library.ualberta.ca/items/0612e319-4ca8-496e-9e4d-3ea5c6c5ae33)
-- <b>Digital Agricultural Advisory Service</b>
-  - [GEOAGRO PRO](https://geoagropro.icarda.org/) <b><i>(Associated with Kalgudi Digital Pvt Ltd)</b></i>
+- <b>[An Analysis of the Security of the Global Positioning System (GPS) and Proposed Solutions)](https://era.library.ualberta.ca/items/0612e319-4ca8-496e-9e4d-3ea5c6c5ae33)</b>
+  - Aimed to analyze the Global Positioning System's (GPS) security and identify potential vulnerabilities that malicious actors could exploit. Based on the findings, proposed solutions were developed to mitigate these risks and enhance the security of the GPS. Involve research, testing, and analyzing existing GPS security measures and developing new strategies to improve overall security.
+- <b>[Digital Agricultural Advisory Service](https://geoagropro.icarda.org/)</b>
+  - GeoAgro Pro based digital augmentation for accelerating sustainable intensification aims at bimodal
+digital agricultural advisory service. <b><i>(Associated with Kalgudi Digital Pvt Ltd)</b></i>
+- <b>[A Client-Server model to reserve parking spots](https://github.com/harisourabhkhs412/client-Service)</b>
+  - Developed a Client-Server Internet Application to inquire, request and reserve parking spots in the Education Building Car parking system in the University.
 - <b>Estimation of Agriculture Crop Yield using Machine learning Technique</b>
   - [Estimation of Agriculture Crop Yield using Machine learning Technique](https://drive.google.com/file/d/1E19dlRo8rRUgREtH77lqBISUF7ViP-ZW/view?usp=sharing)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
