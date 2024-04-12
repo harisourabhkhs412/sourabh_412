@@ -1,13 +1,13 @@
-<h1>Hi, I'm Hari! <br/><a href="https://github.com/harisourabhkhs412">Programmer</a>, <a href="(https://www.linkedin.com/in/sourabh412/)/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Hari! <br/><a href="https://github.com/harisourabhkhs412">Cybersecurity Professional</a>, <a href="href="(https://www.linkedin.com/in/sourabh412/)">Business Analyst </a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>An Analysis of the Security of the Global Positioning System (GPS) and Proposed Solutions)</b>
+  - [Researching the Security of the (GPS) , cybersecurity threats Proposed Solutions](https://era.library.ualberta.ca/items/0612e319-4ca8-496e-9e4d-3ea5c6c5ae33)
+- <b>Digital Agricultural Advisory Service</b>
+  - [GEOAGRO PRO](https://geoagropro.icarda.org/) <b><i>(Associated with Kalgudi Digital Pvt Ltd)</b></i>
+- <b>Estimation of Agriculture Crop Yield using Machine learning Technique</b>
+  - [Estimation of Agriculture Crop Yield using Machine learning Technique](https://drive.google.com/file/d/1E19dlRo8rRUgREtH77lqBISUF7ViP-ZW/view?usp=sharing)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
