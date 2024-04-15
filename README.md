@@ -1,7 +1,7 @@
 <h1>Hi, I'm Hari! <br/><a href="https://github.com/harisourabhkhs412">Cybersecurity Professional</a>, <a href="href="(https://www.linkedin.com/in/sourabh412/)">Business Analyst </a></h1>
 - 🏞️ I’m currently working on being outdoorsy
 - 🌱 I’m currently learning towards ISC2 CISSP
-- ⚡ Fun fact: I learned to ski ⛷️ in 2 winter seasons .
+- ⚡ Fun fact: I learned to ski ⛷️ in the mountains within 2 winter seasons.
 
 <h2>👨‍💻 Projects:</h2>
 
